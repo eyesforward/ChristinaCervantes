@@ -1,0 +1,23 @@
+/*add an image to fill background
+*/
+.text-centered {
+  text-align: center;
+}
+.img{
+  background-image: url(images/water.jpg);
+  background-size: cover;  
+     min-height: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+  
+}
+
+m
+h1 h2 {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; color: black ; font-style:oblique; text-align: center}
+
+ul ol {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: black; font-style: italic; list-style-position:inside }
+
+
+p {border-block-start-color: turqoise; border-width: 2px}
+/*add image */

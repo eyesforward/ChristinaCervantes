@@ -25,10 +25,11 @@ body{
   border-radius:50px; 
   padding:10x; 
   background-repeat:no-repeat; 
-  text-align: right;
-  font-size: 10 px; text-color: whitesmoke; 
+  text-align: center;  
+}
 
-  
+.image-text {
+  font-size: 20px; text-align: right; font-family: cursive; color: violet;
 }
 .headers-centered {
   text-align: center;
@@ -64,13 +65,11 @@ p {border-block-start-color: turqoise;
   margin-left: 8px;
 }
 
-}
+
 /*add psuedo classes to links and repeat colors*/
 .linkedin{
 /* unvisited link */
-a:link {
-  color: black;
-}
+a:link {color: black;}
 /* visited link */
 a:visited {
   color: rgb(0, 17, 255);
@@ -83,7 +82,7 @@ a:hover {
 a:active {
   color: rgb(255, 217, 0);
 }
-}
+
 
 .github{
 /* unvisited link */
@@ -101,5 +100,4 @@ a:hover {
 /* selected link */
 a:active {
   color: rgb(255, 217, 0);
-}
 }

@@ -25,6 +25,9 @@ body{
   border-radius:50px; 
   padding:10x; 
   background-repeat:no-repeat; 
+  text-align: right;
+  font-size: 10 px; text-color: whitesmoke; 
+
   
 }
 .headers-centered {
